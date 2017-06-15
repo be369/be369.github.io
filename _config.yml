@@ -1,1 +1,12 @@
+# General Jekyll Config
+highlighter: rogue
+name: Bootcamp Xsis
+description: Pengalaman menjalani Bootcamp di PT Xsis Mitra Utama
+url: "http://be369.github.io/"
+lsi: false
+
+# Build settings
+permalink: pretty
+markdown: kramdown
+theme: minima
 theme: jekyll-theme-merlot
